@@ -1,4 +1,4 @@
---Selecting all the data from the dataset
+--Selecting all the data from the Dataset
 SELECT * FROM [HappinessReport]..Happiness_report                    
 
 --Selecting the Min and Max Happiness score of countries
